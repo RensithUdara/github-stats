@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 
-import utils.session
 import asyncio
 import os
 import re

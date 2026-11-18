@@ -133,5 +133,5 @@ dmypy.json
 
 # PyCharm project files
 .idea
-config.bat
 node_modules
+.env
